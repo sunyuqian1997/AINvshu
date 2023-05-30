@@ -1,29 +1,55 @@
-//本代码要实现从字体部件生成新字，并将新字纵向排列，形成一句话
-PImage[] images = new PImage[33]; // 32个构件，数组从1开始，所以长度为33
+PImage[] images = new PImage[24]; // 32个构件，数组从1开始，所以长度为33
+int[][] sentence; // 用于存储生成的句子
+float scale = 0.2; // 控制字的缩放程度
 
 void setup() {
-  size(800, 800);
+  size(960, 960);
   noStroke();
-  for (int i = 1; i <= 32; i++) { // 加载所有32个字体部件
+  for (int i = 1; i <= 24; i++) { // 加载所有32个字体部件
     images[i] = loadImage(i+ ".png");
+    if (images[i] == null) {
+      println("Failed to load image: " + i + ".png");
+    }
   }
 }
 
-
-
 void draw() {
-  background(214);
+  
 
-  int[] inputs = {7, 20, 9};
-  int[] inputs2 = {19, 11, 12};
 
-  PGraphics stitchedFont = createStitchedFont(inputs2);
-  PGraphics pixelatedFont = pixelateFont(stitchedFont);
-  //image(stitchedFont, 0, 0, 0, 0);
-  //image(pixelatedFont, 0, 0, 0, 0);
-  image(stitchedFont, 0, 0, width / 2, height);
-  image(pixelatedFont, width / 2, 0, width / 2, height);
 }
+
+// 生成n个三位向量，每个元素在1-32之间
+int[][] generateSentence(int n) {
+  int[][] sentence = new int[n][3];
+  for (int i = 0; i < n; i++) {
+    for (int j = 0; j < 3; j++) {
+      sentence[i][j] = int(random(1, 24)); // 生成1-32之间的随机数
+    }
+  }
+    println("generated sentence");
+  return sentence;
+
+}
+
+// 当按下空格键时，生成新的句子
+void keyPressed() {
+  if (key == ' ') {
+    sentence = generateSentence(5);
+    background(214);
+      int y = 0; // 用于纵向排列字
+  for (int[] word : sentence) {
+    PGraphics stitchedFont = createStitchedFont(word);
+    PGraphics pixelatedFont = pixelateFont(stitchedFont);
+    image(stitchedFont, 0, y, width / 2* scale, height * scale);
+    image(pixelatedFont, width / 2* scale, y, width / 2* scale, height * scale);
+    y += height * scale; // 更新y坐标，使字纵向排列
+  }
+  }
+}
+
+// 其他函数保持不变
+
 
 //本功能接受int[]，让对应的组件组合成一个字
 PGraphics createStitchedFont(int[] inputs2) {
@@ -34,12 +60,17 @@ PGraphics createStitchedFont(int[] inputs2) {
 
   for (int input : inputs2) {
     PImage img = images[input];
-    pg.image(img, (width / 4) - (img.width / 12), offset, img.width/5, img.height/6);
-    offset += img.height/10;
+    if (img != null) {
+      pg.image(img, (width / 4) - (img.width / 12), offset, img.width/5, img.height/6);
+      offset += img.height/10;
+    } else {
+      println("Image at index " + input + " is null");
+    }
   }
   pg.endDraw();
   return pg;
 }
+
 
 //本功能对生成的字做像素化处理
 //修改意见：仅针对createStitchedFont中产生的PGraphic做处理，分辨率也和其保持一致
@@ -78,13 +109,4 @@ PGraphics pixelateFont(PGraphics stitchedFont) {
   pg.rect(0, 0, stitchedFont.width - 1, stitchedFont.height - 1);
   pg.endDraw();
   return pg;
-}
-
-//修改意见：增加功能，每次按空格，调用一个功能叫generateSentence随机生成五组三位向量，每一个数字在1-32之间
-//根据这五组向量，生成五个字，然后让这五个字在屏幕上纵向排列。应该有一个float来控制相比原字的缩放程度
-//按照更科学的方法，你可以多写几个功能，来让代码更优雅
-//最终请给出修改draw()函数的意见
-void generateSentence(){
-  
-//把功能写在这里
 }

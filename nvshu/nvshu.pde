@@ -3,8 +3,11 @@ PImage[] images = new PImage[33]; // 32个构件，数组从1开始，所以长�
 void setup() {
   size(800, 1200);
   noStroke();
-  for (int i = 1; i <= 32; i++) { // 加载所有32个字体部件
+  for (int i = 1; i <= 25; i++) { // 加载所有32个字体部件
     images[i] = loadImage(i+ ".png");
+        if (images[i] == null) {
+      println("Failed to load image: " + i + ".png");
+    }
   }
 }
 
