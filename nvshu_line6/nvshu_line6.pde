@@ -41,6 +41,7 @@ int[][] generateSentence(int n) {
     for (int j = 0; j < 3; j++) {
       sentence[i][j] = int(random(0, imageCount)); // 生成1-32之间的随机数
     }
+    println(sentence[i]);
   }
   println("generated sentence");
   return sentence;
