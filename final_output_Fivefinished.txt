@@ -3981,7 +3981,7 @@ Frame: 64
 Recognized content: there is a woman standing in a hallway looking at pictures on the wall
 Translated content: 有一个女人站在走廊里看着墙上的照片
 Most similar texts: ['陌上修依女，围墙蕉根树', '女人过去受压迫，世间并无疼惜人', '大女年刚十四岁，走到山中流珠哭']
-New sentence: 走廊倚墙思，照片映往昔。
+New sentence: 女走倚墙思，照片映往昔。
 File Name: video_clips/4.mp4
 Frame: 80
 Recognized content: there is a woman standing in a hallway looking at pictures on the wall
@@ -4930,7 +4930,7 @@ Frame: 378
 Recognized content: there is a man with a beard and a green shirt
 Translated content: 有一个留着胡子穿着绿色衬衫的男人
 Most similar texts: ['青的洗成麻的样，绉头绉脑穿身上', '风吹花果入花园，八幅罗裙来对娘', '后面好似绉皮柑，等到亲友摆酒席']
-New sentence: 绿衫胡子客，青麻绉裙裳。
+New sentence: 绿衫胡须客，青麻绉裙裳。
 File Name: video_clips/6.mp4
 Frame: 387
 Recognized content: there is a man with a beard and a green shirt
