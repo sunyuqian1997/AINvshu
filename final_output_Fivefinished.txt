@@ -3093,7 +3093,7 @@ Frame: 180
 Recognized content: smiling man in grey hoodie standing under a bridge with a skateboard
 Translated content: 穿着灰色连帽衫的微笑男子拿着滑板站在桥下
 Most similar texts: ['岭木桥上好吹凉，不见同垌一个人', '站下船边样样难，二拜花楼牡丹色', '开声哭到大桥铺，望见银川下界头']
-New sentence: 灰衣男子笑微微，桥下滑板共欢歌。
+New sentence: 灰衣人共笑，桥下滑共歌。
 File Name: video_clips/5.mp4
 Frame: 185
 Recognized content: there is a man in a gray hoodie smiling at the camera
@@ -3111,7 +3111,7 @@ Frame: 195
 Recognized content: smiling man in grey hoodie standing under a bridge with a white background
 Translated content: 身穿灰色连帽衫的微笑男子站在白色背景的桥下
 Most similar texts: ['岭木桥上好吹凉，不见同垌一个人', '开声哭到大桥铺，望见银川下界头', '眼泪行过时光，想起可怜好凄寒']
-New sentence: 衣襟笑语桥边人，悠悠生活别样心。
+New sentence: 春风桥头笑，闲心水岸行。
 File Name: video_clips/5.mp4
 Frame: 200
 Recognized content: smiling man in grey hoodie looking at his cell phone
@@ -3135,13 +3135,13 @@ Frame: 215
 Recognized content: smiling man in grey hoodie standing under a bridge with a skateboard
 Translated content: 穿着灰色连帽衫的微笑男子拿着滑板站在桥下
 Most similar texts: ['岭木桥上好吹凉，不见同垌一个人', '站下船边样样难，二拜花楼牡丹色', '开声哭到大桥铺，望见银川下界头']
-New sentence: 桥下笑影衫灰男，滑板言欢共眷梦。
+New sentence: 桥畔衣男笑，共梦滑板欢。
 File Name: video_clips/5.mp4
 Frame: 220
 Recognized content: there is a man that is smiling and wearing a hoodie
 Translated content: 有一个穿着连帽衫的男人微笑着
 Most similar texts: ['做妇风流眼泪流，他家亦有吹凉节', '眼泪行过时光，想起可怜好凄寒', '岭木桥上好吹凉，不见同垌一个人']
-New sentence: 连帽笑意难名状，寄情桥头独凄凉。
+New sentence: 绿意连帽雄，笑难桥头凉。
 File Name: video_clips/5.mp4
 Frame: 225
 Recognized content: there is a man that is smiling and wearing a hoodie
@@ -3165,7 +3165,7 @@ Frame: 240
 Recognized content: smiling man in grey hoodie standing under a bridge with a white background
 Translated content: 身穿灰色连帽衫的微笑男子站在白色背景的桥下
 Most similar texts: ['岭木桥上好吹凉，不见同垌一个人', '开声哭到大桥铺，望见银川下界头', '眼泪行过时光，想起可怜好凄寒']
-New sentence: 微笑男子立，白桥背影斜阳。
+New sentence: 笑迎年少郎，斜阳映桥白。
 File Name: video_clips/5.mp4
 Frame: 245
 Recognized content: smiling man in grey hoodie standing under a bridge with a white background
@@ -3189,7 +3189,7 @@ Frame: 260
 Recognized content: there is a man in a gray hoodie standing under a bridge
 Translated content: 有一个穿着灰色连帽衫的男人站在桥下
 Most similar texts: ['岭木桥上好吹凉，不见同垌一个人', '开声哭到大桥铺，望见银川下界头', '站下船边样样难，二拜花楼牡丹色']
-New sentence: 穿衣男子桥畔立，寻常生活情感深。
+New sentence: 男子立桥畔，生活情感深。
 File Name: video_clips/5.mp4
 Frame: 265
 Recognized content: there is a man in a gray hoodie standing under a bridge
@@ -3213,7 +3213,7 @@ Frame: 280
 Recognized content: there is a man in a hoodie standing under a bridge
 Translated content: 桥下站着一个穿连帽衫的男人
 Most similar texts: ['岭木桥上好吹凉，不见同垌一个人', '开声哭到大桥铺，望见银川下界头', '站下船边样样难，二拜花楼牡丹色']
-New sentence: 连帽男影桥旁，孤独感叹世艰茫。
+New sentence: 风吹披风侠，悲叹世事茫。
 File Name: video_clips/5.mp4
 Frame: 285
 Recognized content: there is a man in a hoodie standing under a bridge
@@ -3225,7 +3225,7 @@ Frame: 290
 Recognized content: there is a man in a hoodie standing under a bridge
 Translated content: 桥下站着一个穿连帽衫的男人
 Most similar texts: ['岭木桥上好吹凉，不见同垌一个人', '开声哭到大桥铺，望见银川下界头', '站下船边样样难，二拜花楼牡丹色']
-New sentence: 连衣衫影，桥下独凭栏。
+New sentence: 衣影连桥畔，独凭栏下观。
 File Name: video_clips/5.mp4
 Frame: 295
 Recognized content: there is a man that is smiling and wearing a hoodie
@@ -3267,7 +3267,7 @@ Frame: 70
 Recognized content: there is a woman that is smiling and waving her hands
 Translated content: 有个女人微笑着挥手
 Most similar texts: ['一齐花纸女，我来几俫欢', '男女平望一样高，我村有个义玉举', '妹吧小时你身边，始得点心算礼情']
-New sentence: 微笑挥手情薄暮，共望人间笑颜开。
+New sentence: 微笑挥手情，薄暮共望间。
 File Name: video_clips/1.mp4
 Frame: 84
 Recognized content: smiling woman with black hair and a black jacket holding a knife and fork
@@ -3321,7 +3321,7 @@ Frame: 196
 Recognized content: there is a woman that is smiling and holding a knife and fork
 Translated content: 有一个女人微笑着拿着刀叉
 Most similar texts: ['一齐花纸女，我来几俫欢', '人人说她是懒妇，前面好似柑橘绉', '十指连心心连肉，女在娘家二十秋']
-New sentence: 笑嫣端案破封欢，宴中柑橘悦心田。
+New sentence: 江流天地外，山色有无中。
 File Name: video_clips/1.mp4
 Frame: 210
 Recognized content: there is a woman that is making a funny face with her mouth
@@ -3345,7 +3345,7 @@ Frame: 252
 Recognized content: there is a woman that is holding a knife and fork
 Translated content: 有个女人拿着刀叉
 Most similar texts: ['女人过去受压迫，世间并无疼惜人', '陌上修依女，围墙蕉根树', '妇女难行黑路多，一家团圆各走散']
-New sentence: 拿刀叉娇俏女，争取自由作新篇。
+New sentence: 刀叉娇女添，争自由新篇。
 File Name: video_clips/1.mp4
 Frame: 266
 Recognized content: smiling woman with long black hair and a black jacket
@@ -3375,7 +3375,7 @@ Frame: 322
 Recognized content: there is a woman that is looking at the camera
 Translated content: 有一个女人正在看着相机
 Most similar texts: ['女人过去受压迫，世间并无疼惜人', '丈夫一见将她骂，各位姊妹看一看', '人人说她是懒妇，前面好似柑橘绉']
-New sentence: 镜头里女羞涩，世间总有扶危渡。
+New sentence: 镜中羞涩女，世行扶危渡。
 File Name: video_clips/1.mp4
 Frame: 336
 Recognized content: there is a woman that is looking at the camera
@@ -3387,7 +3387,7 @@ Frame: 350
 Recognized content: there is a woman that is looking at a cell phone
 Translated content: 有个女人正在看手机
 Most similar texts: ['女人过去受压迫，世间并无疼惜人', '男女不安急忙忙，再气百姓受苦辛', '人人说她是懒妇，前面好似柑橘绉']
-New sentence: 举手机倾诉愿，时代变迁共关怀。
+New sentence: 移动端诉愿，共关怀变迁。
 File Name: video_clips/1.mp4
 Frame: 364
 Recognized content: there is a woman that is smiling and holding a cell phone
@@ -3417,7 +3417,7 @@ Frame: 420
 Recognized content: smiling woman with black shirt and black shirt holding up her hand
 Translated content: 微笑的女人穿着黑色衬衫和黑色衬衫举起她的手
 Most similar texts: ['声高八面闻，姑娘详书礼', '伴芳左右摇，仙女下棋', '手捧女书仔细看，字字行行写得清']
-New sentence: 黑衣笑影展, 手舞诗意传
+New sentence: 青衣舞影展，青笺传诗意。
 File Name: video_clips/1.mp4
 Frame: 434
 Recognized content: smiling woman with long black hair and black jacket in a room
@@ -3489,7 +3489,7 @@ Frame: 588
 Recognized content: smiling woman holding a glass of orange juice in her hand
 Translated content: 微笑的女人手里拿着一杯橙汁
 Most similar texts: ['人人说她是懒妇，前面好似柑橘绉', '妹吧小时你身边，始得点心算礼情', '女人过去受压迫，世间并无疼惜人']
-New sentence: 笑颜捧橙喜洋洋，女书诗句感情长。
+New sentence: 好友话桃径，鹊弄曲杨梅。
 File Name: video_clips/1.mp4
 Frame: 602
 Recognized content: smiling woman holding a glass of orange juice in front of her face
@@ -3531,7 +3531,7 @@ Frame: 686
 Recognized content: smiling woman holding a glass of orange juice in front of her face
 Translated content: 微笑的女人在她的脸前拿着一杯橙汁
 Most similar texts: ['人人说她是懒妇，前面好似柑橘绉', '女人过去受压迫，世间并无疼惜人', '男女不安急忙忙，再气百姓受苦辛']
-New sentence: 橙汁笑映红颜，窗外柑橘香四溢。
+New sentence: 橙汁映笑颜，窗外橘香扬。
 File Name: video_clips/1.mp4
 Frame: 700
 Recognized content: smiling woman holding a glass of orange juice in front of her face
@@ -3591,7 +3591,7 @@ Frame: 826
 Recognized content: smiling woman holding a glass of orange juice in front of her face
 Translated content: 微笑的女人在她的脸前拿着一杯橙汁
 Most similar texts: ['人人说她是懒妇，前面好似柑橘绉', '女人过去受压迫，世间并无疼惜人', '男女不安急忙忙，再气百姓受苦辛']
-New sentence: 笑颜把橙汁扬，挣脱旧日殇。
+New sentence: 好耍须心旷，新程起步翔。
 File Name: video_clips/1.mp4
 Frame: 840
 Recognized content: smiling woman holding a glass of orange juice in front of her
@@ -3609,7 +3609,7 @@ Frame: 14
 Recognized content: a close up of a woman with a white sweater and a white sweater
 Translated content: 一个穿着白色毛衣和白色毛衣的女人的特写
 Most similar texts: ['丝罗绸缎做衣裳，左右又有宫娥女', '白水外公文秀才，外婆白水王家女', '贵府贤闺女，梳妆如水亮']
-New sentence: 素衣白裳如玉人，岁月静好共芬芳。
+New sentence: 玉人素衡白，共芳月岁静。
 File Name: video_clips/7.mp4
 Frame: 21
 Recognized content: a close up of a woman with a white sweater and a white sweater
@@ -3645,7 +3645,7 @@ Frame: 56
 Recognized content: smiling woman in white sweater and glasses with a white background
 Translated content: 身穿白色毛衣、戴着白色背景眼镜的微笑女人
 Most similar texts: ['白水外公文秀才，外婆白水王家女', '女人过去受压迫，世间并无疼惜人', '眼泪行过时光，想起可怜好凄寒']
-New sentence: 白衣女子笑婉约，泪痕时光诉委屈。
+New sentence: 白衣女子笑，泪痕诉时光。
 File Name: video_clips/7.mp4
 Frame: 63
 Recognized content: smiling woman in white sweater and blue shirt with white sweater
@@ -3669,7 +3669,7 @@ Frame: 84
 Recognized content: smiling woman in white sweater and blue shirt with white sweater
 Translated content: 穿着白色毛衣和带白色毛衣的蓝色衬衫的微笑女人
 Most similar texts: ['丝罗绸缎做衣裳，左右又有宫娥女', '白水外公文秀才，外婆白水王家女', '青的洗成麻的样，绉头绉脑穿身上']
-New sentence: 白衣蓝衫笑脸开，丝罗美好共欢来。
+New sentence: 夜月伴山林，千花朵里春。
 File Name: video_clips/7.mp4
 Frame: 91
 Recognized content: smiling woman in white sweater and blue shirt with white sweater
@@ -3681,7 +3681,7 @@ Frame: 98
 Recognized content: smiling woman in white sweater and blue shirt with white sweater
 Translated content: 穿着白色毛衣和带白色毛衣的蓝色衬衫的微笑女人
 Most similar texts: ['丝罗绸缎做衣裳，左右又有宫娥女', '白水外公文秀才，外婆白水王家女', '青的洗成麻的样，绉头绉脑穿身上']
-New sentence: 白衣蓝衫笑婷婷，丝罗绸缎映朝晖。
+New sentence: 朝晖映罗缎，笑婷素衣蓝。
 File Name: video_clips/7.mp4
 Frame: 105
 Recognized content: smiling woman in white sweater and blue shirt with white sweater
@@ -3693,7 +3693,7 @@ Frame: 112
 Recognized content: smiling woman in white sweater and blue shirt holding a cell phone
 Translated content: 穿着白色毛衣和蓝色衬衫、拿着手机的微笑女人
 Most similar texts: ['白水外公文秀才，外婆白水王家女', '女人过去受压迫，世间并无疼惜人', '人人说她是懒妇，前面好似柑橘绉']
-New sentence: 白衣蓝衫笑颜开，手机掌中共欢哉。
+New sentence: 风清红叶舞，时闻水波响。
 File Name: video_clips/7.mp4
 Frame: 119
 Recognized content: smiling woman in white sweater and blue shirt standing in front of a white wall
@@ -3735,7 +3735,7 @@ Frame: 161
 Recognized content: a close up of a woman with a white sweater and a necklace
 Translated content: 一个穿着白色毛衣和项链的女人的特写
 Most similar texts: ['丝罗绸缎做衣裳，左右又有宫娥女', '贵府贤闺女，梳妆如水亮', '声高八面闻，姑娘详书礼']
-New sentence: 白衣婷婷笑倾城，宫娥佳气满闺房。
+New sentence: 白衣笑倾城，宫娥气满房。
 File Name: video_clips/7.mp4
 Frame: 168
 Recognized content: a close up of a woman with a white sweater and a white shirt
@@ -3759,7 +3759,7 @@ Frame: 189
 Recognized content: smiling woman in white sweater and blue shirt with white sweater
 Translated content: 穿着白色毛衣和带白色毛衣的蓝色衬衫的微笑女人
 Most similar texts: ['丝罗绸缎做衣裳，左右又有宫娥女', '白水外公文秀才，外婆白水王家女', '青的洗成麻的样，绉头绉脑穿身上']
-New sentence: 白衣蓝裳笑颜妆，丽影生活宛如仙。
+New sentence: 青衫披雪步，笑语洒花香。
 File Name: video_clips/7.mp4
 Frame: 196
 Recognized content: a close up of a woman with a white sweater and a white sweater
@@ -3777,7 +3777,7 @@ Frame: 210
 Recognized content: smiling woman in white sweater and blue shirt with white sweater
 Translated content: 穿着白色毛衣和带白色毛衣的蓝色衬衫的微笑女人
 Most similar texts: ['丝罗绸缎做衣裳，左右又有宫娥女', '白水外公文秀才，外婆白水王家女', '青的洗成麻的样，绉头绉脑穿身上']
-New sentence: 白衣蓝衫笑盈盈，丝罗绸缎温柔情。
+New sentence: 夜来花洒月，时共水光明。
 File Name: video_clips/7.mp4
 Frame: 217
 Recognized content: smiling woman in white sweater and blue shirt with white necklace
@@ -3801,7 +3801,7 @@ Frame: 238
 Recognized content: smiling woman in white sweater and glasses standing in front of a white wall
 Translated content: 穿着白色毛衣和眼镜的微笑女人站在白墙前
 Most similar texts: ['女人过去受压迫，世间并无疼惜人', '眼泪行过时光，想起可怜好凄寒', '大女年刚十四岁，走到山中流珠哭']
-New sentence: 白墙前笑意现，眼泪珠落时空间。
+New sentence: 墙前白笑意，泪落时空现。
 File Name: video_clips/7.mp4
 Frame: 245
 Recognized content: smiling woman in white sweater and blue shirt posing for a picture
@@ -3831,7 +3831,7 @@ Frame: 273
 Recognized content: smiling woman in white sweater and blue shirt with white hair
 Translated content: 穿着白色毛衣和蓝色衬衫、白头发的微笑女人
 Most similar texts: ['白水外公文秀才，外婆白水王家女', '贵府贤闺女，梳妆如水亮', '青的洗成麻的样，绉头绉脑穿身上']
-New sentence: 白衣蓝衫映笑颜，生活如诗梦里还。
+New sentence: 红叶秋风起，书香满屋间。
 File Name: video_clips/7.mp4
 Frame: 280
 Recognized content: smiling woman in white sweater and blue shirt standing in front of a white wall
@@ -3873,7 +3873,7 @@ Frame: 322
 Recognized content: smiling woman in white sweater and blue shirt with white hair
 Translated content: 穿着白色毛衣和蓝色衬衫、白头发的微笑女人
 Most similar texts: ['白水外公文秀才，外婆白水王家女', '贵府贤闺女，梳妆如水亮', '青的洗成麻的样，绉头绉脑穿身上']
-New sentence: 白衣蓝衫笑靥开，洗尽世俗舞轻裳。
+New sentence: 山水空鸣静，晨曦暖风临。
 File Name: video_clips/7.mp4
 Frame: 329
 Recognized content: a close up of a woman with a white sweater and a necklace
@@ -3897,13 +3897,13 @@ Frame: 350
 Recognized content: smiling woman in white sweater and blue shirt with white background
 Translated content: 穿着白色毛衣和白色背景蓝色衬衫的微笑女人
 Most similar texts: ['白水外公文秀才，外婆白水王家女', '丝罗绸缎做衣裳，左右又有宫娥女', '风吹花果入花园，八幅罗裙来对娘']
-New sentence: 白衣如雪笑盈盈，蓝裙飘舞乐融融。
+New sentence: 美人白衣舞，欢笑蓝裙飘。
 File Name: video_clips/7.mp4
 Frame: 357
 Recognized content: smiling woman in white sweater and blue shirt standing in front of a white wall
 Translated content: 穿着白色毛衣和蓝色衬衫的微笑女人站在白墙前
 Most similar texts: ['白水外公文秀才，外婆白水王家女', '风吹花果入花园，八幅罗裙来对娘', '丝罗绸缎做衣裳，左右又有宫娥女']
-New sentence: 墙前蓝衣傍，笑靥白衣自飘香。
+New sentence: 墙前蓝衣依，白衣笑自香。
 File Name: video_clips/7.mp4
 Frame: 364
 Recognized content: smiling woman in white sweater and blue shirt standing in front of a white wall
@@ -3915,7 +3915,7 @@ Frame: 371
 Recognized content: smiling woman in white sweater and blue shirt standing in front of a white wall
 Translated content: 穿着白色毛衣和蓝色衬衫的微笑女人站在白墙前
 Most similar texts: ['白水外公文秀才，外婆白水王家女', '风吹花果入花园，八幅罗裙来对娘', '丝罗绸缎做衣裳，左右又有宫娥女']
-New sentence: 白衣笑靥傍青墙，风送香花共梦翔。
+New sentence: 春风吹绿叶，楼台暗香外。
 File Name: video_clips/7.mp4
 Frame: 378
 Recognized content: smiling woman in white sweater and blue shirt holding a cell phone
@@ -3939,7 +3939,7 @@ Frame: 399
 Recognized content: a close up of a woman with a white sweater and a necklace
 Translated content: 一个穿着白色毛衣和项链的女人的特写
 Most similar texts: ['丝罗绸缎做衣裳，左右又有宫娥女', '贵府贤闺女，梳妆如水亮', '声高八面闻，姑娘详书礼']
-New sentence: 白衣宫女立，项链闪光有谁知。
+New sentence: 白衣女立殿，项链闪谁知。
 File Name: video_clips/7.mp4
 Frame: 406
 Recognized content: a close up of a woman with a white sweater and a necklace
@@ -3963,7 +3963,7 @@ Frame: 16
 Recognized content: there are pictures on the wall of a building with a staircase
 Translated content: 有楼梯的建筑物的墙上有图片
 Most similar texts: ['两位高楼坐，荷莲花五色', '站下船边样样难，二拜花楼牡丹色', '陌上修依女，围墙蕉根树']
-New sentence: 画楼梯依墙立，五彩莲花映心扉。
+New sentence: 青砖画梯依，五莲映心晖。
 File Name: video_clips/4.mp4
 Frame: 32
 Recognized content: there are pictures on the wall of a building with a staircase
@@ -3999,7 +3999,7 @@ Frame: 112
 Recognized content: arafed woman walking down a hallway past a wall with pictures
 Translated content: 一位阿拉菲女士沿着走廊走过一堵挂着照片的墙
 Most similar texts: ['陌上修依女，围墙蕉根树', '大女年刚十四岁，走到山中流珠哭', '老娘当天来跪下，心中思想无路走']
-New sentence: 阿娘韶华如昨，走廊墙挂旧照。
+New sentence: 娘颜昨日芳，廊壁挂古照。
 File Name: video_clips/4.mp4
 Frame: 128
 Recognized content: arafed woman looking at a wall with pictures on it
@@ -4095,13 +4095,13 @@ Frame: 368
 Recognized content: arafed woman looking at a wall with pictures of a car
 Translated content: 阿拉菲女士看着墙上挂着汽车的照片
 Most similar texts: ['陌上修依女，围墙蕉根树', '引起女儿走日本，伯叔看见齐疼惜', '贤芳君子女，荷花钵上遥']
-New sentence: 照片墙汽车，感慨时光变迁。
+New sentence: 相片显往事，汽车驰今天。
 File Name: video_clips/4.mp4
 Frame: 384
 Recognized content: arafed woman looking at a wall with pictures of a car
 Translated content: 阿拉菲女士看着墙上挂着汽车的照片
 Most similar texts: ['陌上修依女，围墙蕉根树', '引起女儿走日本，伯叔看见齐疼惜', '贤芳君子女，荷花钵上遥']
-New sentence: 照片墙垂丽景，忆车载笑谈。
+New sentence: 相片换昔时，车中载笑语。
 File Name: video_clips/4.mp4
 Frame: 400
 Recognized content: arafed woman looking at a wall with pictures of a car
@@ -4167,7 +4167,7 @@ Frame: 560
 Recognized content: woman looking at a wall with pictures on it in a building
 Translated content: 女人在建筑物中看着墙上挂着照片
 Most similar texts: ['女人过去受压迫，世间并无疼惜人', '陌上修依女，围墙蕉根树', '只为女人受尽苦，要凭女书诉苦情']
-New sentence: 照片上儿女情，墙挂史岁月。
+New sentence: 腾云诗句海，笑谈美食家。
 File Name: video_clips/4.mp4
 Frame: 576
 Recognized content: woman looking at a black and white photograph of a woman in a white sweater
@@ -4215,7 +4215,7 @@ Frame: 688
 Recognized content: woman taking a picture of a black and white photograph of a wall
 Translated content: 拍墙上黑白照片的女人
 Most similar texts: ['妇女难行黑路多，一家团圆各走散', '陌上修依女，围墙蕉根树', '白水外公文秀才，外婆白水王家女']
-New sentence: 墙影古照空，心系家国忆同伫。
+New sentence: 墙影古空照，心系国忆家。
 File Name: video_clips/4.mp4
 Frame: 704
 Recognized content: woman taking a picture of a wall with a cell phone
@@ -4335,7 +4335,7 @@ Frame: 15
 Recognized content: araffes of people walking in a large room with a white floor
 Translated content: 一群人走在铺着白色地板的大房间里
 Most similar texts: ['妇女难行黑路多，一家团圆各走散', '两位高楼坐，荷莲花五色', '就曰分开没在楼，叫你想惊四徕人']
-New sentence: 白地空间里，众亲友同闹欢。
+New sentence: 空白间相聚，亲朋共欢笑。
 File Name: video_clips/11.mp4
 Frame: 20
 Recognized content: araffes of people walking in a large room with a white floor
@@ -4419,7 +4419,7 @@ Frame: 85
 Recognized content: araffes of people walking in a large room with a white floor
 Translated content: 一群人走在铺着白色地板的大房间里
 Most similar texts: ['妇女难行黑路多，一家团圆各走散', '两位高楼坐，荷莲花五色', '就曰分开没在楼，叫你想惊四徕人']
-New sentence: 白砖莹楼步，人间离散觅团圆
+New sentence: 白砖莹望楼，离散觅团欢。
 File Name: video_clips/11.mp4
 Frame: 90
 Recognized content: araffes of people walking in a large room with a lot of white tiles
@@ -4437,7 +4437,7 @@ Frame: 100
 Recognized content: araffes of people walking in a large room with a lot of luggage
 Translated content: 一大群人带着很多行李走在一个大房间里
 Most similar texts: ['妇女难行黑路多，一家团圆各走散', '日本赶上抢衣裳，房中妹娘的弟弟', '父母真欢喜，伴同行不疏']
-New sentence: 行色匆匆觅新家，携手共度岁月长。
+New sentence: 群鸟逐新巢，共度长久时。
 File Name: video_clips/11.mp4
 Frame: 105
 Recognized content: araffes of people walking in a large room with white tiles
@@ -4449,7 +4449,7 @@ Frame: 110
 Recognized content: araffes of people walking in a large room with a lot of white tiles
 Translated content: 一群人走在一个有很多白色瓷砖的大房间里
 Most similar texts: ['妇女难行黑路多，一家团圆各走散', '两位高楼坐，荷莲花五色', '就曰分开没在楼，叫你想惊四徕人']
-New sentence: 白砖铺地尽光明，家园归来共欢歌。
+New sentence: 白砖铺地明，家园共欢歌。
 File Name: video_clips/11.mp4
 Frame: 115
 Recognized content: araffes of people walking in a large room with a white floor
@@ -4497,7 +4497,7 @@ Frame: 150
 Recognized content: araffes of people walking in a large white tiled area
 Translated content: 一群人走在一个大的白色瓷砖区域
 Most similar texts: ['妇女难行黑路多，一家团圆各走散', '一直走到上江墟，道州又无亲朋友', '年年帮馳做长工，落于姓陈新宅村']
-New sentence: 瓷地人行笑颜开，白墙家庭伴暮年。
+New sentence: 黄昏独伫楼，夕阳愁断肠。
 File Name: video_clips/11.mp4
 Frame: 155
 Recognized content: araffes of people walking in a large room with a white floor
@@ -4551,7 +4551,7 @@ Frame: 195
 Recognized content: araffes of people walking in a large white tiled area
 Translated content: 一群人走在一个大的白色瓷砖区域
 Most similar texts: ['妇女难行黑路多，一家团圆各走散', '一直走到上江墟，道州又无亲朋友', '年年帮馳做长工，落于姓陈新宅村']
-New sentence: 行砖千尺至人群，感慨身旁友伴少。
+New sentence: 踏砖尽千尺，感慨友影稀。
 File Name: video_clips/11.mp4
 Frame: 200
 Recognized content: araffes of people walking in a large room with a white floor
@@ -4569,13 +4569,13 @@ Frame: 210
 Recognized content: araffes of people walking in a large white tiled area
 Translated content: 一群人走在一个大的白色瓷砖区域
 Most similar texts: ['妇女难行黑路多，一家团圆各走散', '一直走到上江墟，道州又无亲朋友', '年年帮馳做长工，落于姓陈新宅村']
-New sentence: 白砖铺地人欢聚，团圆散落感悲喜。
+New sentence: 白砖地上欢，散圆聚悲喜。
 File Name: video_clips/11.mp4
 Frame: 215
 Recognized content: araffes of people walking in a large white tiled area
 Translated content: 一群人走在一个大的白色瓷砖区域
 Most similar texts: ['妇女难行黑路多，一家团圆各走散', '一直走到上江墟，道州又无亲朋友', '年年帮馳做长工，落于姓陈新宅村']
-New sentence: 白瓷砖地相行，团散难辨亲友情。
+New sentence: 好好办公室，忘却凡愁病。
 File Name: video_clips/11.mp4
 Frame: 220
 Recognized content: araffes of people walking in a large room with a lot of white tiles
@@ -4605,7 +4605,7 @@ Frame: 240
 Recognized content: araffes of people walking in a large white tiled area
 Translated content: 一群人走在一个大的白色瓷砖区域
 Most similar texts: ['妇女难行黑路多，一家团圆各走散', '一直走到上江墟，道州又无亲朋友', '年年帮馳做长工，落于姓陈新宅村']
-New sentence: 瓷砖如雪人行处，离散家园慨时伤。
+New sentence: 雪似瓷轻行，离家慨伤时。
 File Name: video_clips/11.mp4
 Frame: 245
 Recognized content: araffes of people walking in a large white tiled area
@@ -4617,7 +4617,7 @@ Frame: 250
 Recognized content: araffes of people walking in a large white tiled area
 Translated content: 一群人走在一个大的白色瓷砖区域
 Most similar texts: ['妇女难行黑路多，一家团圆各走散', '一直走到上江墟，道州又无亲朋友', '年年帮馳做长工，落于姓陈新宅村']
-New sentence: 白砖闹市人潮聚，陈家新宅待团圆。
+New sentence: 白砖闹处聚，陈家待团欢。
 File Name: video_clips/11.mp4
 Frame: 255
 Recognized content: araffes of people walking in a large room with a lot of white tiles
@@ -4635,7 +4635,7 @@ Frame: 265
 Recognized content: araffes of people walking in a large room with a lot of white tiles
 Translated content: 一群人走在一个有很多白色瓷砖的大房间里
 Most similar texts: ['妇女难行黑路多，一家团圆各走散', '两位高楼坐，荷莲花五色', '就曰分开没在楼，叫你想惊四徕人']
-New sentence: 白砖空廊共游行，团圆散去感悲伤。
+New sentence: 白砖游共廊，团散伤感来。
 File Name: video_clips/11.mp4
 Frame: 270
 Recognized content: araffes of people walking in a large white room with a clock
@@ -4659,7 +4659,7 @@ Frame: 285
 Recognized content: araffes of people walking in a large white tiled area
 Translated content: 一群人走在一个大的白色瓷砖区域
 Most similar texts: ['妇女难行黑路多，一家团圆各走散', '一直走到上江墟，道州又无亲朋友', '年年帮馳做长工，落于姓陈新宅村']
-New sentence: 瓷砖铺地人欢笑，团圆散落共无忧。
+New sentence: 青砖铺地欢，团散共无忧。
 File Name: video_clips/11.mp4
 Frame: 290
 Recognized content: araffes of people walking in a large white tiled area
@@ -4677,7 +4677,7 @@ Frame: 300
 Recognized content: araffes of people walking around a large white tiled area
 Translated content: 一群人在一大片铺着白色瓷砖的区域走来走去
 Most similar texts: ['妇女难行黑路多，一家团圆各走散', '人民受苦达万千，行文行到郴州府', '笑煞邻村达万人，筷子一动蛋吃光']
-New sentence: 白砖铺地人闲逛，团散家庭心内伤。
+New sentence: 白砖映行人，离别心相伤。
 File Name: video_clips/6.mp4
 Frame: 9
 Recognized content: arafed man with white hair and a green shirt looks at the camera
@@ -4689,7 +4689,7 @@ Frame: 18
 Recognized content: arafed man with a beard and a green shirt looks at the camera
 Translated content: 留着胡须、穿着绿色衬衫的阿拉菲男子看着镜头
 Most similar texts: ['青的洗成麻的样，绉头绉脑穿身上', '风吹花果入花园，八幅罗裙来对娘', '后面好似绉皮柑，等到亲友摆酒席']
-New sentence: 胡须绿衫阿拉风，绉头花果共欢歌。
+New sentence: 胡须映绿衫，花果共欢歌。
 File Name: video_clips/6.mp4
 Frame: 27
 Recognized content: arafed man with a beard and a green shirt looks at the camera
@@ -4701,7 +4701,7 @@ Frame: 36
 Recognized content: arafed man with a green shirt and white shirt looking at the camera
 Translated content: 穿着绿色衬衫和白色衬衫的阿拉菲男子看着镜头
 Most similar texts: ['青的洗成麻的样，绉头绉脑穿身上', '风吹花果入花园，八幅罗裙来对娘', '两位高楼坐，荷莲花五色']
-New sentence: 绿衫白裙逢阿拉，镜里荷花共婵娟。
+New sentence: 绿衫逢阿拉，白裙共婵娟。
 File Name: video_clips/6.mp4
 Frame: 45
 Recognized content: arafed man with a beard and a green jacket looks at the camera
@@ -4725,7 +4725,7 @@ Frame: 72
 Recognized content: arafed man with a beard and a green shirt looks at the camera
 Translated content: 留着胡须、穿着绿色衬衫的阿拉菲男子看着镜头
 Most similar texts: ['青的洗成麻的样，绉头绉脑穿身上', '风吹花果入花园，八幅罗裙来对娘', '后面好似绉皮柑，等到亲友摆酒席']
-New sentence: 胡须男儿绿衫留，镜头映影共欢愁。
+New sentence: 洒水车轻盈，微河流策马。
 File Name: video_clips/6.mp4
 Frame: 81
 Recognized content: arafed man with a beard and a green shirt looks at the camera
@@ -4755,7 +4755,7 @@ Frame: 117
 Recognized content: there is a man with a beard and a green shirt
 Translated content: 有一个留着胡子穿着绿色衬衫的男人
 Most similar texts: ['青的洗成麻的样，绉头绉脑穿身上', '风吹花果入花园，八幅罗裙来对娘', '后面好似绉皮柑，等到亲友摆酒席']
-New sentence: 碧衣绿袖画胡须，绉头绉脑话相思。
+New sentence: 翠袂画须图，巧头话怀思。
 File Name: video_clips/6.mp4
 Frame: 126
 Recognized content: there is a man with a beard and a green jacket
@@ -4797,7 +4797,7 @@ Frame: 180
 Recognized content: arafed man with a beard and a green shirt looks at the camera
 Translated content: 留着胡须、穿着绿色衬衫的阿拉菲男子看着镜头
 Most similar texts: ['青的洗成麻的样，绉头绉脑穿身上', '风吹花果入花园，八幅罗裙来对娘', '后面好似绉皮柑，等到亲友摆酒席']
-New sentence: 绿衣阿拉，须如丝。
+New sentence: 绿衣娇似丝，阿拉舞翩翩。
 镜中凝视，脉脉情添。
 File Name: video_clips/6.mp4
 Frame: 189
@@ -4816,7 +4816,7 @@ Frame: 207
 Recognized content: arafed man with a beard and a green shirt looks at the camera
 Translated content: 留着胡须、穿着绿色衬衫的阿拉菲男子看着镜头
 Most similar texts: ['青的洗成麻的样，绉头绉脑穿身上', '风吹花果入花园，八幅罗裙来对娘', '后面好似绉皮柑，等到亲友摆酒席']
-New sentence: 胡须翠衫阿拉菲，镜头映出脚步轻。
+New sentence: 胡须翠衫来，镜影显步轻。
 File Name: video_clips/6.mp4
 Frame: 216
 Recognized content: there is a man with a beard and a green shirt
@@ -4846,7 +4846,7 @@ Frame: 252
 Recognized content: there is a man with a beard and a green shirt
 Translated content: 有一个留着胡子穿着绿色衬衫的男人
 Most similar texts: ['青的洗成麻的样，绉头绉脑穿身上', '风吹花果入花园，八幅罗裙来对娘', '后面好似绉皮柑，等到亲友摆酒席']
-New sentence: 绿衫胡须人，绉头脑映娘光。
+New sentence: 翠衫生须者，紫头智耀娘。
 File Name: video_clips/6.mp4
 Frame: 261
 Recognized content: arafed man with white hair and a green shirt looks at the camera
@@ -4858,13 +4858,13 @@ Frame: 270
 Recognized content: arafed man with a beard and a green shirt looks at the camera
 Translated content: 留着胡须、穿着绿色衬衫的阿拉菲男子看着镜头
 Most similar texts: ['青的洗成麻的样，绉头绉脑穿身上', '风吹花果入花园，八幅罗裙来对娘', '后面好似绉皮柑，等到亲友摆酒席']
-New sentence: 胡须绿衣笑春风，绉裙花园共欢庆。
+New sentence: 春风笑绿须，花园庆共绉。
 File Name: video_clips/6.mp4
 Frame: 279
 Recognized content: arafed man with white hair and a green shirt looks at the camera
 Translated content: 白头发和绿色衬衫的阿拉菲男子看着镜头
 Most similar texts: ['青的洗成麻的样，绉头绉脑穿身上', '贵府贤闺女，梳妆如水亮', '风吹花果入花园，八幅罗裙来对娘']
-New sentence: 碧衫折尽映白发，镜里翻卷惜年华。
+New sentence: 春衫碧色尽，镜里白发华。
 File Name: video_clips/6.mp4
 Frame: 288
 Recognized content: arafed man with white hair and a green shirt looking at the camera
@@ -4894,7 +4894,7 @@ Frame: 324
 Recognized content: arafed man with a beard and glasses standing in front of a white wall
 Translated content: 留着胡子、戴着眼镜的阿拉菲男子站在白墙前
 Most similar texts: ['无人把当千事情，手拿锄头眼泪飘', '青的洗成麻的样，绉头绉脑穿身上', '后面好似绉皮柑，等到亲友摆酒席']
-New sentence: 胡须镜影青墙外，锄头泪洒绉衣裳。
+New sentence: 胡镜影青墙，锄泪洒衣裳。
 File Name: video_clips/6.mp4
 Frame: 333
 Recognized content: arafed man with white hair and a green jacket looks at the camera
@@ -4924,7 +4924,7 @@ Frame: 369
 Recognized content: there is a man with a beard and a green jacket
 Translated content: 有一个留着胡子的男人，身穿绿色夹克
 Most similar texts: ['正月十五元宵节，凉伞遮得自从囗', '落在姓义村，六十有如七十青', '风吹花果入花园，八幅罗裙来对娘']
-New sentence: 胡子男披绿衣，元宵夜乐陶陶。
+New sentence: 须男翠袍披，灯夜喜盈托。
 File Name: video_clips/6.mp4
 Frame: 378
 Recognized content: there is a man with a beard and a green shirt
@@ -4948,13 +4948,13 @@ Frame: 405
 Recognized content: arafed man with a green jacket and white shirt looking at the camera
 Translated content: 穿着绿色夹克和白色衬衫的阿拉菲男子看着镜头
 Most similar texts: ['眼泪行过时光，想起可怜好凄寒', '青的洗成麻的样，绉头绉脑穿身上', '风吹花果入花园，八幅罗裙来对娘']
-New sentence: 绿衣白裳愁满眼，镜头映出凄寒颜。
+New sentence: 绿裳催愁眼，镜映凄寒颜。
 File Name: video_clips/6.mp4
 Frame: 414
 Recognized content: arafed man with white hair and a green shirt looks at the camera
 Translated content: 白头发和绿色衬衫的阿拉菲男子看着镜头
 Most similar texts: ['青的洗成麻的样，绉头绉脑穿身上', '贵府贤闺女，梳妆如水亮', '风吹花果入花园，八幅罗裙来对娘']
-New sentence: 白头绿衫似侠客，镜头映出画中人。
+New sentence: 白首绿衫侠，镜映画中人。
 File Name: video_clips/6.mp4
 Frame: 423
 Recognized content: arafed man with a beard and a green shirt looks at the camera
@@ -4972,13 +4972,13 @@ Frame: 441
 Recognized content: there is a man with a beard and a green shirt
 Translated content: 有一个留着胡子穿着绿色衬衫的男人
 Most similar texts: ['青的洗成麻的样，绉头绉脑穿身上', '风吹花果入花园，八幅罗裙来对娘', '后面好似绉皮柑，等到亲友摆酒席']
-New sentence: 绿衣胡子笑嘻嘻，绉头绉脑共欢喜。
+New sentence: 青衣须笑语，绉首共欢谐。
 File Name: video_clips/6.mp4
 Frame: 450
 Recognized content: there is a man with a beard and a green shirt
 Translated content: 有一个留着胡子穿着绿色衬衫的男人
 Most similar texts: ['青的洗成麻的样，绉头绉脑穿身上', '风吹花果入花园，八幅罗裙来对娘', '后面好似绉皮柑，等到亲友摆酒席']
-New sentence: 绿衫男子留胡须，青麻衣裙抚悲愁。
+New sentence: 衣留绿裙胡，青须男抚愁。
 File Name: video_clips/6.mp4
 Frame: 459
 Recognized content: there is a man with a beard and a green shirt
@@ -4996,13 +4996,13 @@ Frame: 477
 Recognized content: arafed man with a beard and a green shirt looks at the camera
 Translated content: 留着胡须、穿着绿色衬衫的阿拉菲男子看着镜头
 Most similar texts: ['青的洗成麻的样，绉头绉脑穿身上', '风吹花果入花园，八幅罗裙来对娘', '后面好似绉皮柑，等到亲友摆酒席']
-New sentence: 胡须男闻香来，绿衫映花间。
+New sentence: 好哉子虚翁，酒绿兼归闲。
 File Name: video_clips/6.mp4
 Frame: 486
 Recognized content: arafed man with a white beard and a green shirt
 Translated content: 留着白胡子和绿色衬衫的阿拉伯人
 Most similar texts: ['青的洗成麻的样，绉头绉脑穿身上', '丝罗绸缎做衣裳，左右又有宫娥女', '叫他与我拿衣裳，拿衣拿米就起身']
-New sentence: 白须绿衫阿客至，青丝绸缎换新颜。
+New sentence: 绿衫白须客，换新亦青颜。
 File Name: video_clips/6.mp4
 Frame: 495
 Recognized content: arafed man with a green jacket and white shirt looking at the camera
